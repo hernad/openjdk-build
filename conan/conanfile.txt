@@ -1,0 +1,8 @@
+[requires]
+freetype/2.10.1
+
+
+[generators]
+deploy
+
+[options]
